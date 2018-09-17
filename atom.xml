@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-17T07:42:59.024Z</updated>
+  <updated>2018-09-17T13:59:49.375Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vue学习</title>
+    <link href="http://yoursite.com/2018/09/17/vue%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yoursite.com/2018/09/17/vue学习笔记/</id>
+    <published>2018-09-17T13:56:22.147Z</published>
+    <updated>2018-09-17T13:59:49.375Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="vue介绍"><a href="#vue介绍" class="headerlink" title="vue介绍"></a>vue介绍</h2><ol><li>vue是什么</li></ol><ul><li>vue是一个渐进式框架</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;vue介绍&quot;&gt;&lt;a href=&quot;#vue介绍&quot; class=&quot;headerlink&quot; title=&quot;vue介绍&quot;&gt;&lt;/a&gt;vue介绍&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;vue是什么&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;vue是一个渐进式框架&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>你好 我的个人博客</title>
